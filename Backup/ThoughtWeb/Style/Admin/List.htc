@@ -1,0 +1,16 @@
+<ATTACH EVENT="onmouseover" ONEVENT="overit()" />
+<ATTACH EVENT="onmousedown" ONEVENT="overit()" />
+<ATTACH EVENT="onmouseup" ONEVENT="overit()" />
+<ATTACH EVENT="onmouseout" ONEVENT="outit()" />
+<ATTACH EVENT="oncontentready" ONEVENT="init()" />
+<SCRIPT>
+function init() {
+	runtimeStyle.backgroundColor="#E6F2FF";
+}
+function overit() {
+	runtimeStyle.backgroundColor="#D2E8FF";
+}
+function outit() {
+	runtimeStyle.backgroundColor="#E6F2FF";
+}
+</SCRIPT>

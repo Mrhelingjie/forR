@@ -1,0 +1,3 @@
+H:\superstar\2014年\待收款\D14121--asp.net游泳馆信息管理系统\ThoughtWeb\DataAccess\obj\Debug\ResolveAssemblyReference.cache
+H:\superstar\2014年\待收款\D14121--asp.net游泳馆信息管理系统\ThoughtWeb\DataAccess\obj\Debug\Mejoy.DataAccess.dll
+H:\superstar\2014年\待收款\D14121--asp.net游泳馆信息管理系统\ThoughtWeb\DataAccess\obj\Debug\Mejoy.DataAccess.pdb

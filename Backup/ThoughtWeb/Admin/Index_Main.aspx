@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Index_Main.aspx.cs" Inherits="Mejoy.WebSite.Admin.Index_Main" %>

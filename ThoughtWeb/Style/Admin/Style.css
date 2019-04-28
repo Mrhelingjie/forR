@@ -1,0 +1,229 @@
+body,td,th {
+	font-family: "宋体", Arial;
+	font-size: 12px;
+	color: #000000;
+	line-height: 180%;
+	word-break: breakl-all;
+}
+body {
+	background-color: #F0F8FF;
+	margin: 15px;
+	scrollbar-3d-light-color:#CCCCCC;
+	scrollbar-base-color:#ABC8E7;
+	scrollbar-arrow-color: #0080C0;
+}
+a {
+	color: #000000;
+	text-decoration: none;
+}
+form{
+	margin: 0px;
+}
+input{
+	border-top: 1px solid #333333;
+	border-right: 1px solid #E0E0E0;
+	border-bottom: 1px solid #E0E0E0;
+	border-left: 1px solid #333333;
+}
+sup{
+	text-decoration: underline;
+}
+.nostyle{
+	border: medium none;
+}
+.nostyle input{
+	border: medium none;
+}
+.btn{
+	padding-top: 2px;
+	height: 22px;
+	border-top: 1px solid #E0E0E0;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #E0E0E0;
+}
+.btn1{
+	padding-top: 2px;
+	height: 22px;
+	border-top: 1px solid #E0E0E0;
+	border-right: 1px solid #333333;
+	border-bottom: 1px solid #333333;
+	border-left: 1px solid #E0E0E0;
+	color:#CF3A3A;
+}
+.select{
+	background: url(/images/admin/select.gif) no-repeat right center;
+	cursor: pointer;
+}
+.table_main_title{
+	font-size: 18px;
+	font-weight: bold;
+	height: 45px;
+	color: #000000;
+	text-align:center;
+	filter: DropShadow(Color=#CCCCCC, OffX=1, OffY=1);
+	background-color:#FFFFFF;
+	border: 1px solid #CCCCCC;
+}
+.table_main_note{
+	font-size:12px;
+	line-height: 170%;
+	background-color:#FFFFFF;
+	border: 1px solid #CCCCCC;
+}
+.table_main_note div{
+	margin: 10px;
+}
+.table_main_border{
+	background-color:#FFFFFF;
+	border: 1px solid #CCCCCC;
+}
+.table_main_noborder{
+	background-color:#FFFFFF;
+}
+.table_main_bottom{
+	height: 45px;
+	text-align: center;
+	background-color:#FFFFFF;
+	border: 1px solid #CCCCCC;
+}
+.table_list {
+	border: 1px solid #4581CA;
+	text-decoration: none;
+	background-color: #FFFFFF;
+}
+.table_list_title {
+	font-weight: bold;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+	background-color: #B8D7F8;
+	height:27px;
+	background-image: url(/images/admin/list_title.gif);
+	background-position: top;
+	background-repeat: repeat-x;
+}
+.table_list_item{
+	height:27px;
+	behavior: url(/style/admin/list.htc);
+	text-align: center;
+}
+.table_input {
+	background-color: #FFFFFF;
+	border: 1px solid #4581CA;
+}
+.table_input_bar{
+	background-image: url(/images/admin/bar_bg.gif);
+	background-position: top;
+	background-repeat: repeat-x;
+	color: #FFFFFF;
+	font-weight: bold;
+	height: 27px;
+	padding-left: 10px;
+}
+.table_input_note{
+	background-color: #E4EDF9;
+	line-height: 170%;
+	padding: 5px;
+	color: #666666;
+}
+.table_input_note a{
+	color: #666666;
+	text-decoration: underline;
+}
+.table_input_item {
+	background-color:#D6EAFA;
+	height:28px;
+	text-align: right;
+}
+.table_input_content{
+	background-color:#F9F9F9;
+}
+.table_btn{
+	height: 50px;
+	width: 100%;
+	border: 0px;
+	text-align: center;
+}
+.table_row_split{
+	padding-left: 10px;
+	font-weight: bold;
+	height: 28px;
+	background-color: #E4EDF9;
+}
+.input_up
+{
+	width: 250px;
+}
+.color_input{
+	width: 70px;
+	text-align: center;
+}
+.color_btn{
+	width: 100px;
+	border: 0px;
+	height: 20px;
+}
+.memo
+{
+	padding-left: 20px;
+	color:#999999;
+}
+.memo a{
+	color: #999999;
+	text-decoration: underline;
+}
+.alert
+{
+	padding-left: 20px;
+	color:#FF0000;
+}
+.table_subnav{
+	background-color: #D6EAFA;
+	height: 28px;
+	text-align: center;
+}
+.table_subnav ul{
+	margin: 0px;
+}
+.table_subnav li{
+	height: 28px;
+	margin: 3px;
+	padding: 7px 15px 0px 15px;
+	border-left: 1px solid #F9F9F9;
+	border-top: 1px solid #F9F9F9;
+	border-bottom: 1px solid #666666;
+	border-right: 1px solid #666666;
+	list-style: none;
+	float: left;
+	background-color: #B8D7F8;
+}
+
+/* 管理员权限列表 */
+.perList{}
+.perList ul{
+	clear: both;
+	margin: 0;
+	padding: 10px 15px 10px 15px;
+}
+.perList ul li{
+	list-style: none;
+}
+.perList .perTitle{
+	clear: both;
+	color: Red;
+	padding-left: 10px;
+	font-weight: bold;
+	border-bottom: 1px solid #CCCCCC;
+}
+.perList .perItem{
+	float: left;
+	width: 200px;
+	overflow: hidden;
+}
+
+.delete
+{
+		background-image: url(/images/admin/delete.png);
+	 width:17px;
+}

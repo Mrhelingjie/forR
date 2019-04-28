@@ -1,0 +1,108 @@
+E:\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataLogic.dll
+E:\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataLogic.pdb
+E:\www.12580nj.com\DataLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\www.12580nj.com\DataLogic\obj\Debug\Mejoy.DataLogic.dll
+E:\www.12580nj.com\DataLogic\obj\Debug\Mejoy.DataLogic.pdb
+E:\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Common.dll
+E:\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Library.dll
+E:\www.12580nj.com\DataLogic\bin\Debug\Interop.Scripting.dll
+E:\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Library.pdb
+E:\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Common.pdb
+E:\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataAccess.dll
+E:\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataAccess.pdb
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataLogic.dll
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataLogic.pdb
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Common.dll
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataAccess.dll
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Library.dll
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\bin\Debug\Interop.Scripting.dll
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Library.pdb
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Common.pdb
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataAccess.pdb
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\obj\Debug\Mejoy.DataLogic.dll
+C:\Documents and Settings\Andy晨\桌面\www.12580nj.com\DataLogic\obj\Debug\Mejoy.DataLogic.pdb
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\bin\Debug\Mejoy.DataLogic.dll
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\bin\Debug\Mejoy.DataLogic.pdb
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\bin\Debug\Mejoy.Common.dll
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\bin\Debug\Mejoy.DataAccess.dll
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\bin\Debug\Mejoy.Library.dll
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\bin\Debug\Interop.Scripting.dll
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\bin\Debug\Mejoy.Library.pdb
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\bin\Debug\Mejoy.Common.pdb
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\bin\Debug\Mejoy.DataAccess.pdb
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\obj\Debug\Mejoy.DataLogic.dll
+D:\我的文档\桌面\www.12580nj.com5-19\DataLogic\obj\Debug\Mejoy.DataLogic.pdb
+D:\Jek\折扣\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataLogic.dll
+D:\Jek\折扣\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataLogic.pdb
+D:\Jek\折扣\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Common.dll
+D:\Jek\折扣\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataAccess.dll
+D:\Jek\折扣\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Library.dll
+D:\Jek\折扣\www.12580nj.com\DataLogic\bin\Debug\Interop.Scripting.dll
+D:\Jek\折扣\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Library.pdb
+D:\Jek\折扣\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Common.pdb
+D:\Jek\折扣\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataAccess.pdb
+D:\Jek\折扣\www.12580nj.com\DataLogic\obj\Debug\ResolveAssemblyReference.cache
+D:\Jek\折扣\www.12580nj.com\DataLogic\obj\Debug\Mejoy.DataLogic.dll
+D:\Jek\折扣\www.12580nj.com\DataLogic\obj\Debug\Mejoy.DataLogic.pdb
+E:\我的项目\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataLogic.dll
+E:\我的项目\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataLogic.pdb
+E:\我的项目\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Common.dll
+E:\我的项目\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataAccess.dll
+E:\我的项目\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Library.dll
+E:\我的项目\www.12580nj.com\DataLogic\bin\Debug\Interop.Scripting.dll
+E:\我的项目\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Library.pdb
+E:\我的项目\www.12580nj.com\DataLogic\bin\Debug\Mejoy.Common.pdb
+E:\我的项目\www.12580nj.com\DataLogic\bin\Debug\Mejoy.DataAccess.pdb
+E:\我的项目\www.12580nj.com\DataLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\我的项目\www.12580nj.com\DataLogic\obj\Debug\Mejoy.DataLogic.dll
+E:\我的项目\www.12580nj.com\DataLogic\obj\Debug\Mejoy.DataLogic.pdb
+E:\我的项目\Friend\DataLogic\bin\Debug\Mejoy.DataLogic.dll
+E:\我的项目\Friend\DataLogic\bin\Debug\Mejoy.DataLogic.pdb
+E:\我的项目\Friend\DataLogic\bin\Debug\Mejoy.Common.dll
+E:\我的项目\Friend\DataLogic\bin\Debug\Mejoy.DataAccess.dll
+E:\我的项目\Friend\DataLogic\bin\Debug\Mejoy.Library.dll
+E:\我的项目\Friend\DataLogic\bin\Debug\Interop.Scripting.dll
+E:\我的项目\Friend\DataLogic\bin\Debug\Mejoy.Library.pdb
+E:\我的项目\Friend\DataLogic\bin\Debug\Mejoy.Common.pdb
+E:\我的项目\Friend\DataLogic\bin\Debug\Mejoy.DataAccess.pdb
+E:\我的项目\Friend\DataLogic\obj\Debug\ResolveAssemblyReference.cache
+E:\我的项目\Friend\DataLogic\obj\Debug\Mejoy.DataLogic.dll
+E:\我的项目\Friend\DataLogic\obj\Debug\Mejoy.DataLogic.pdb
+K:\交友网\Friend\DataLogic\bin\Debug\Mejoy.DataLogic.dll
+K:\交友网\Friend\DataLogic\bin\Debug\Mejoy.DataLogic.pdb
+K:\交友网\Friend\DataLogic\bin\Debug\Mejoy.Common.dll
+K:\交友网\Friend\DataLogic\bin\Debug\Mejoy.DataAccess.dll
+K:\交友网\Friend\DataLogic\bin\Debug\Mejoy.Library.dll
+K:\交友网\Friend\DataLogic\bin\Debug\Interop.Scripting.dll
+K:\交友网\Friend\DataLogic\bin\Debug\Mejoy.Library.pdb
+K:\交友网\Friend\DataLogic\bin\Debug\Mejoy.Common.pdb
+K:\交友网\Friend\DataLogic\bin\Debug\Mejoy.DataAccess.pdb
+K:\交友网\Friend\DataLogic\obj\Debug\ResolveAssemblyReference.cache
+K:\交友网\Friend\DataLogic\obj\Debug\Mejoy.DataLogic.dll
+K:\交友网\Friend\DataLogic\obj\Debug\Mejoy.DataLogic.pdb
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\bin\Debug\Mejoy.DataLogic.dll
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\bin\Debug\Mejoy.DataLogic.pdb
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\bin\Debug\Mejoy.Common.dll
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\bin\Debug\Mejoy.DataAccess.dll
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\bin\Debug\Mejoy.Library.dll
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\bin\Debug\Interop.Scripting.dll
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\bin\Debug\Mejoy.Library.pdb
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\bin\Debug\Mejoy.Common.pdb
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\bin\Debug\Mejoy.DataAccess.pdb
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\obj\Debug\Mejoy.DataLogic.dll
+C:\Documents and Settings\Administrator\桌面\项目\Friend\DataLogic\obj\Debug\Mejoy.DataLogic.pdb
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\bin\Debug\Mejoy.DataLogic.dll
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\bin\Debug\Mejoy.DataLogic.pdb
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\bin\Debug\Mejoy.Common.dll
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\bin\Debug\Mejoy.DataAccess.dll
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\bin\Debug\Mejoy.Library.dll
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\bin\Debug\Interop.Scripting.dll
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\bin\Debug\Mejoy.Library.pdb
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\bin\Debug\Mejoy.Common.pdb
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\bin\Debug\Mejoy.DataAccess.pdb
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\obj\Debug\Mejoy.DataLogic.dll
+C:\Documents and Settings\Administrator\桌面\项目\ThoughtWeb\DataLogic\obj\Debug\Mejoy.DataLogic.pdb

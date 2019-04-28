@@ -1,0 +1,342 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Mejoy.DataAccess.Admin.AdminData">
+    <Position X="1.25" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Mejoy.DataAccess.BaseDataAccess" FixedToPoint="true">
+      <Path>
+        <Point X="41.156" Y="0.5" />
+        <Point X="41.156" Y="0.26" />
+        <Point X="2" Y="0.26" />
+        <Point X="2" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQAAWAAAAAAAEAAAAAQAAAAAAEACAAIAQgQAAECCCE=</HashCode>
+      <FileName>Admin\AdminData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Admin.AdminLogData">
+    <Position X="4.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Mejoy.DataAccess.BaseDataAccess" FixedToPoint="true">
+      <Path>
+        <Point X="40.926" Y="0.5" />
+        <Point X="40.926" Y="0.26" />
+        <Point X="5.01" Y="0.26" />
+        <Point X="5.01" Y="4.26" />
+        <Point X="5.438" Y="4.26" />
+        <Point X="5.438" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAEACAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Admin\AdminLogData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Admin.AdminMenuData">
+    <Position X="6.5" Y="4.5" Width="2" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Mejoy.DataAccess.Admin.AdminMenuData.AdminMenuType">
+        <TypeIdentifier>
+          <NewMemberFileName>Admin\AdminMenuData.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <InheritanceLine Type="Mejoy.DataAccess.BaseDataAccess" FixedToPoint="true">
+      <Path>
+        <Point X="40.811" Y="0.5" />
+        <Point X="40.811" Y="0.26" />
+        <Point X="6.91" Y="0.26" />
+        <Point X="6.91" Y="4.26" />
+        <Point X="7.438" Y="4.26" />
+        <Point X="7.438" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BAQgAEAAQAIAhAAAEAAAIAAAACECCAAAAAAAAAAADCE=</HashCode>
+      <FileName>Admin\AdminMenuData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Ads.CycleData">
+    <Position X="12.25" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Mejoy.DataAccess.BaseDataAccess" FixedToPoint="true">
+      <Path>
+        <Point X="40.203" Y="0.5" />
+        <Point X="40.203" Y="0.26" />
+        <Point X="12.938" Y="0.26" />
+        <Point X="12.938" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAQACEAAIAAACgAAAAAQIAAAAAEACAAAAAAAAIAACBE=</HashCode>
+      <FileName>Ads\CycleData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Ads.CycleImageData">
+    <Position X="8.75" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Mejoy.DataAccess.BaseDataAccess" FixedToPoint="true">
+      <Path>
+        <Point X="41.359" Y="0.5" />
+        <Point X="41.359" Y="0.26" />
+        <Point X="9.438" Y="0.26" />
+        <Point X="9.438" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BBQgAEAAAAAAAEAAAAAQAIAAAAEACBAAAAAAAAAACAE=</HashCode>
+      <FileName>Ads\CycleImageData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Ads.LinkData">
+    <Position X="10.5" Y="4.5" Width="1.5" />
+    <InheritanceLine Type="Mejoy.DataAccess.BaseDataAccess" FixedToPoint="true">
+      <Path>
+        <Point X="40.578" Y="0.5" />
+        <Point X="40.578" Y="0.26" />
+        <Point X="11.188" Y="0.26" />
+        <Point X="11.188" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BAQABEAAYAAAAkAAAAAQIAAAACEAGAhAAAAAAIAADBE=</HashCode>
+      <FileName>Ads\LinkData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.BaseDataAccess">
+    <Position X="40" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgBAAAAACAQAAAAEAAAAAAAAABIAAAAAAAAIA=</HashCode>
+      <FileName>BaseDataAccess.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.BasicPage.BasicPage">
+    <Position X="3" Y="4.5" Width="5.5" />
+    <InheritanceLine Type="Mejoy.DataAccess.BaseDataAccess" FixedToPoint="true">
+      <Path>
+        <Point X="40.694" Y="0.5" />
+        <Point X="40.694" Y="0.26" />
+        <Point X="5.01" Y="0.26" />
+        <Point X="5.01" Y="4.26" />
+        <Point X="5.521" Y="4.26" />
+        <Point X="5.521" Y="4.5" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>BBUAAEAAIAAAAgAAAAAggAAAAJEACAAAAAAAAABACAU=</HashCode>
+      <FileName>BasicPage\BasicPage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Config.AreaData">
+    <Position X="16.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQEAEAAIAAABgAACAhAAgAAAAEAiAAAAUAAAAAQCAs=</HashCode>
+      <FileName>Config\AreaData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Config.BadKeyData">
+    <Position X="29.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAIAAAAgAgCAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Config\BadKeyData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Config.ETicketData">
+    <Position X="41" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAEACIAAAAgQIAIAAIAAAIAEACAAAAAAAAAgACAE=</HashCode>
+      <FileName>Config\ETicketData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Config.ETicknetTempData">
+    <Position X="52.25" Y="2" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAUAAEAAIAAAAgAAAAAQAAAAAIEACAAAAAAAABAACAE=</HashCode>
+      <FileName>Config\ETicknetTempData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Config.IndustryData">
+    <Position X="63.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAIAAAAgAAAAAAAAAAAAEACAgAAAAAAAAACCE=</HashCode>
+      <FileName>Config\IndustryData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Config.MarketData">
+    <Position X="72.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAIAAAAgAAAAAAAAAAAAEACAAAAAAQABAACAE=</HashCode>
+      <FileName>Config\MarketData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Config.SearchKeyData">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEACIAAAAgAAAAAAAAAAAAEACEAAAAAAAAAACAE=</HashCode>
+      <FileName>Config\SearchKeyData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Config.StreetData">
+    <Position X="18.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQAAEAAIAAgIgAAAAAQAAAQAAEACAAAAACAAEAACQE=</HashCode>
+      <FileName>Config\StreetData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Discount.DiscountClassData">
+    <Position X="32" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAIIAAAAgAAAAAAIgAAAAEACEQAEAAAAAAACAE=</HashCode>
+      <FileName>Discount\DiscountClassData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Discount.DiscountListData">
+    <Position X="43.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIQAAEAAMATICgAGAQARAIoAAAHACgDAgAAAAAAATAE=</HashCode>
+      <FileName>Discount\DiscountListData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Manufacturer.ManufacturerData">
+    <Position X="54.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WqUpAEAAIAUFAgBAI0QUBggQAEPQWMZAwRFFBAQECAk=</HashCode>
+      <FileName>Manufacturer\ManufacturerData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Manufacturer.ManufacturerTempData">
+    <Position X="65.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>WqUpAEAAIAUFAgBAIkQUBggQAENQWMZAQRFFBAQECAk=</HashCode>
+      <FileName>Manufacturer\ManufacturerTempData.cs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Manufacturer.ManufacturerTypeData">
+    <Position X="74.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAIAAAAgAAAAAAIAAAAAEACAAAAAAAAAAACAE=</HashCode>
+      <FileName>Manufacturer\ManufacturerTypeData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Manufacturer.T_OwnerManufacturerBindData">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAEAAAAAAAgAAAAAAAAAAAAEACCAAABAAIAAACAE=</HashCode>
+      <FileName>Manufacturer\T_OwnerManufacturerBindData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Product.ProductData">
+    <Position X="20.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAEAAIAAAAkAGAAAQIAAAAAEACAAgAAAAAAAACAE=</HashCode>
+      <FileName>Product\ProductData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Product.ProductKeyData">
+    <Position X="34.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAwAQEAAIAAAAkQIAAAAAAQAAAEACAIAAAAQAAAACAE=</HashCode>
+      <FileName>Product\ProductKeyData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.Service.ServiceData">
+    <Position X="45.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAIAAAAgAAAAAEAAAAAAEACAQAAAAAAAAACAE=</HashCode>
+      <FileName>Service\ServiceData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserCommentData">
+    <Position X="56.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAUAAEBAIAAACgAIAAAAABQAAAEACAAAAAAAAAAEDAE=</HashCode>
+      <FileName>User\UserCommentData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserData">
+    <Position X="68" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABwAAHAAcAAAAkEQAAAAAgAAJAkACAUBBAgQUAEACCE=</HashCode>
+      <FileName>User\UserData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserFavoriteData">
+    <Position X="77" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQAAEAAIAAACgAIAAAAAAAAAIEACAAAAAAAAAAADAE=</HashCode>
+      <FileName>User\UserFavoriteData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserFriendData">
+    <Position X="13" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAIABgIgAIAAAAAAACAAEACAAAAAAAAAABCAE=</HashCode>
+      <FileName>User\UserFriendData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserGroupClassData">
+    <Position X="23" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAIAAAAgAAAAAAIAAAAAEACAAAAAAAAAAACAE=</HashCode>
+      <FileName>User\UserGroupClassData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserGroupData">
+    <Position X="36.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAFAAIAAAAgQKAQAAIAAAAAmACAAIBAAAAAAgCAE=</HashCode>
+      <FileName>User\UserGroupData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserGroupMemberData">
+    <Position X="47.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAEAAIAAAAgAIAAAAACAAAAEACAAAAIAAgAABCAE=</HashCode>
+      <FileName>User\UserGroupMemberData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserGroupTopicData">
+    <Position X="59" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAUBAEAAIAIAAgAIAEAAADAAAIEACAAAAAAAAAAACAE=</HashCode>
+      <FileName>User\UserGroupTopicData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserMsgData">
+    <Position X="70.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAEAAEAAAAAAAAAggAAAAAAEAAEICAAAAAAAAIAADAE=</HashCode>
+      <FileName>User\UserMsgData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserScoreLogData">
+    <Position X="79.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAEAAIAAAAgAIIAAAAAAAAAEACgAAAAAAAAAACAE=</HashCode>
+      <FileName>User\UserScoreLogData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserVisitorData">
+    <Position X="14.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAEAAIAAAAgAIAAAAAAACAAEACAAAAAAAAAAACAE=</HashCode>
+      <FileName>User\UserVisitorData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mejoy.DataAccess.User.UserWayData">
+    <Position X="25.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEIAAACQCAAIABAACAAAEAAAAAAAAAAAEIAABAE=</HashCode>
+      <FileName>User\UserWayData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Mejoy.DataAccess.User.WayType">
+    <Position X="81.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAI=</HashCode>
+      <FileName>User\UserWayData.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
